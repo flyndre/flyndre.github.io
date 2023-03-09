@@ -1,3 +1,6 @@
+# Flevents 
+a scalable and fast Event-Managing Software. 
+
 ## Unser Team: Team Flyndre
 ### Projektleiter 
 Name: Lukas Burkhardt<br>
