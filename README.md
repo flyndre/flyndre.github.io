@@ -1,6 +1,6 @@
 # Flevents 
 a scalable and fast Event-Managing Software.<br> 
-Link zum Github-Repository: [Flevents](https://github.com/NoName11234/Flevents)
+**Link zum Github-Repository:** [Flevents](https://github.com/NoName11234/Flevents)
 
 ## Unser Team: Team Flyndre
 ### Projektleiter 
