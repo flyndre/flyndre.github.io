@@ -27,5 +27,6 @@ Mail: [i21018@hb.dhbw-stuttgart.de](mailto:i21018@hb.dhbw-stuttgart.de)
 
 ## Aufwandsbericht 
 - noch keine Aufwandsberichte verfügbar - 
+
 ## Statusberichte
 - noch keine Statusberichte verfügbar - 
