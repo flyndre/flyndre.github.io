@@ -4,8 +4,9 @@
 ### Projektleiter 
 Name: Lukas Burkhardt<br>
 Mail: [i21005@hb.dhbw-stuttgart.de](mailto:i21005@hb.dhbw-stuttgart.de)
+
 ### Technischer Assistent
-Paul Lehmann<br>
+Name: Paul Lehmann<br>
 Mail: [i21017@hb.dhbw-stuttgart.de](mailto:i21017@hb.dhbw-stuttgart.de)
 
 ### Recherche- und Testbeauftrager
