@@ -6,7 +6,7 @@ layout: default
 
 "Team Flyndre" ist eine temporäre Projektgruppe, die im Rahmen einer Vorlesungsveranstaltung an der DHBW Stuttgart Campus Horb ein Softwareprojekt durchführt.
 
-Projektleiter ist Lukas Burkhardt (i21005@hb.dhbw-stuttgart.de).
+Gruppenleiter ist Lukas Burkhardt (i21005@hb.dhbw-stuttgart.de).
 
 Weitere Gruppenmitglieder sind Paul Lehmann, Pascal Fuchs, David Poland, Ruben Kraft, David Maier
 
