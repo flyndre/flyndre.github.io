@@ -1,4 +1,4 @@
-# Team Flyndre
+# Home
 
 ## Repository
 
