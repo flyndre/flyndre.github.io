@@ -22,3 +22,7 @@ $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
+
+header img {
+    max-width: 90vw;
+}
