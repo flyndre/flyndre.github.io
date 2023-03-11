@@ -1,32 +1,45 @@
-**Link zum Github-Repository:** [Flevents](https://github.com/NoName11234/Flevents)
+# Team Flyndre
 
-## Unser Team: Team Flyndre
-### Projektleiter 
+## Repository
+
+Link zum Github-Repository: [Flevents](https://github.com/NoName11234/Flevents)
+
+## Gruppenmitglieder
+
+### Projektleiter
+
 Name: Lukas Burkhardt<br>
 Mail: [i21005@hb.dhbw-stuttgart.de](mailto:i21005@hb.dhbw-stuttgart.de)
 
 ### Technischer Assistent
+
 Name: Paul Lehmann<br>
 Mail: [i21017@hb.dhbw-stuttgart.de](mailto:i21017@hb.dhbw-stuttgart.de)
 
 ### Recherche- und Testbeauftrager
+
 Name: Pascal Fuchs<br>
 Mail: [i21008@hb.dhbw-stuttgart.de](mailto:i21008@hb.dhbw-stuttgart.de)
 
-### Modellierungsbeautragter 
+### Modellierungsbeautragter
+
 Name: David Poland<br>
 Mail: [i21021@hb.dhbw-stuttgart.de](mailto:i21021@hb.dhbw-stuttgart.de)
 
-### Implementierungsbeauftrager 
+### Implementierungsbeauftrager
+
 Name: Ruben Kraft<br>
 Mail: [i21015@hb.dhbw-stuttgart.de](mailto:i21015@hb.dhbw-stuttgart.de)
 
 ### Qualitätssicherungs- und Dokumentationsbeauftrager
+
 Name: David Maier<br>
 Mail: [i21018@hb.dhbw-stuttgart.de](mailto:i21018@hb.dhbw-stuttgart.de)
 
-## Aufwandsbericht 
+## Aufwandsberichte
+
 - noch keine Aufwandsberichte verfügbar
 
 ## Statusberichte
-- noch keine Statusberichte verfügbar 
+
+- noch keine Statusberichte verfügbar
