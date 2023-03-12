@@ -25,3 +25,9 @@ Link zum Github-Repository: [Flevents](https://github.com/NoName11234/Flevents)
 ## Statusberichte
 
 [Übersicht](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21017_hb_dhbw-stuttgart_de/Ev5VxSRSWpFFp2ObiuJQgekBRdgZbJ93V_De5hZiRJqUpQ?e=4uQyAo)
+
+## Dokumente erste Woche
+
+[Alle Dokumente](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l)
+
+
