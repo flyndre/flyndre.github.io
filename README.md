@@ -20,8 +20,8 @@ Link zum Github-Repository: [Flevents](https://github.com/NoName11234/Flevents)
 
 ## Aufwandsberichte
 
-- noch keine Aufwandsberichte verfügbar
+[Übersicht](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21017_hb_dhbw-stuttgart_de/EiH79CQI2jxGmhhHSfwIFMYBrANFUVZA_GHRTxQOPmjhOA?e=ueC0I9)
 
 ## Statusberichte
 
-- noch keine Statusberichte verfügbar
+[Übersicht](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21017_hb_dhbw-stuttgart_de/Ev5VxSRSWpFFp2ObiuJQgekBRdgZbJ93V_De5hZiRJqUpQ?e=4uQyAo)
