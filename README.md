@@ -8,8 +8,8 @@ Unser aktuelles Projekt ist _Flevents_, eine moderne Event-Management-Software.
 | Ressource | Link |
 | --- | --- |
 | Repository | [Flevents](https://github.com/NoName11234/Flevents) |
-| Statusberichte | [Alle Statusberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21017_hb_dhbw-stuttgart_de/EiH79CQI2jxGmhhHSfwIFMYBrANFUVZA_GHRTxQOPmjhOA?e=ueC0I9) |
-| Aufwandsberichte | [Alle Aufwandsberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21017_hb_dhbw-stuttgart_de/Ev5VxSRSWpFFp2ObiuJQgekBRdgZbJ93V_De5hZiRJqUpQ?e=4uQyAo) |
+| Statusberichte | [Alle Statusberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ek6RXJJ2bexLhTh41hYQTp0BkIt39ANIW3aETtXwXOL2Bg?e=0HQPRm) |
+| Aufwandsberichte | [Alle Aufwandsberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EgAPLLNsz81NiKrMdZ2INM8Bn4Js46WiQyu1vKXY73dt6A?e=D5ckoE) |
 | Abgegebene Dokumente nach Woche | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l) |
 
 ## Gruppenmitglieder
