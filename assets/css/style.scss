@@ -24,6 +24,5 @@ $hr-border-color: #eff0f1;
 @import "{{ site.theme }}";
 
 header img {
-    max-width: 64rem;
-    padding: 2rem 6rem;
+    max-width: min(52rem, 90vw);
 }
