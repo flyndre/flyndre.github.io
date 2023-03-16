@@ -1,7 +1,7 @@
 # Willkommen
 
 Wir sind Team Flyndre (Norwegisch, sprich: _Flindre_), ein Entwicklerteam aus Studenten der DHBW Stuttgart Campus Horb.
-Unser aktuelles Projekt ist _Flevents_, eine moderne Event-Management-Software.
+Im Rahmen einer Vorlesung entwickeln wir _Flevents_, eine moderne Event-Management-Software.
 
 ## Ressourcen
 
