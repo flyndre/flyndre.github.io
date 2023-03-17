@@ -1,5 +1,34 @@
 # Datenschutzerklärung
 
+Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet werden.
+
+## Verantwortlich im Sinne der DSGVO ist
+
+David Maier\
+DHBW Stuttgart Campus Horb\
+Florianstraße 15\
+72160 Horb am Neckar\
+[i21018@hb.dhbw-stuttgart.de](mailto:i21018@hb.dhbw-stuttgart.de)
+
+Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten.
+
+Zu den verarbeiteten Daten zählen:\
+Ihr Name\
+Ihre E-Mail-Adresse
+
+Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.
+
+## Betroffenenrechte
+
+Sie haben als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Ihrer Daten.
+Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Bitte richte Sie Ihren Widerspruch formlos an oben genannte Adresse.
+
+Darüber hinaus haben Sie das Recht auf Datenübertragbarkeit.
+Sie haben weiter das Recht, sich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren.
+Eine Liste der entsprechenden Behörden finden Sie unter: [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+
 ## Hosting
 
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
@@ -37,3 +66,5 @@ GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgese
 Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet.
 Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs).
 Weitere Informationen finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors)
+
+[open privacy by opr.vc](https://opr.vc)
