@@ -1,5 +1,5 @@
 title: Team Flyndre
 description: "Unser aktuelles Projekt: Flevents, eine moderne Event-Managment Software."
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: dasdawidt/cayman-custom
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
