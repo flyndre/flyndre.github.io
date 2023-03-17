@@ -5,7 +5,7 @@ Im Rahmen einer Vorlesung entwickeln wir _Flevents_, eine moderne Event-Manageme
 
 ## Ressourcen
 
-Unsere projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, von denen einige öffentlich, andere nur für einen gewissen Personenkreis bestimmt sind.
+Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, von denen einige öffentlich, andere nur für einen gewissen Personenkreis bestimmt sind.
 
 | Ressource | Zugänglichkeit | Link |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Unsere projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 
 ## Gruppenmitglieder
 
-Unsere Gruppe besteht aus fünf Studenten des Studiengangs Informatik der DHBW Stuttgart Campus Horb:
+Unsere Gruppe besteht aus fünf Studenten des Studiengangs Informatik der DHBW Stuttgart Campus Horb.
 
 | Rolle | Name | E-Mail-Adresse |
 | --- | --- | --- |
