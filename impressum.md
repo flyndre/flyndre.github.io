@@ -6,14 +6,19 @@ layout: default
 
 "Team Flyndre" ist eine temporäre Projektgruppe, die im Rahmen einer Vorlesungsveranstaltung an der DHBW Stuttgart Campus Horb ein Softwareprojekt durchführt.
 
-Gruppenleiter ist Lukas Burkhardt (i21005@hb.dhbw-stuttgart.de).
+## Kontakt
 
-Weitere Gruppenmitglieder sind Paul Lehmann, Pascal Fuchs, David Poland, Ruben Kraft, David Maier
+Lukas Burkhardt, Gruppenleiter: [i21005@hb.dhbw-stuttgart.de](mailto:i21005@hb.dhbw-stuttgart.de)
 
-DHBW Stuttgart Campus Horb
+Paul Lehmann\
+Pascal Fuchs\
+Ruben Kraft\
+David Maier
 
-Florianstraße 15
-
+DHBW Stuttgart Campus Horb\
+Florianstraße 15\
 72160 Horb am Neckar
+
+Telefon: 07451&nbsp;521-147
 
 Weitere Informationen finden Sie unter https://www.dhbw-stuttgart.de/horb/.
