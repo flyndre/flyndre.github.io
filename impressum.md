@@ -21,4 +21,4 @@ Florianstraße 15\
 
 Telefon: 07451&nbsp;521-147
 
-Weitere Informationen finden Sie unter https://www.dhbw-stuttgart.de/horb/.
+Weitere Informationen finden Sie unter: [https://www.dhbw-stuttgart.de/horb/](https://www.dhbw-stuttgart.de/horb/)
