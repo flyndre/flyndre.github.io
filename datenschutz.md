@@ -10,6 +10,8 @@ Florianstraße 15\
 72160 Horb am Neckar\
 [i21018@hb.dhbw-stuttgart.de](mailto:i21018@hb.dhbw-stuttgart.de)
 
+## Von uns Erhobene Daten
+
 Sollten Sie per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um Ihr Anliegen zu bearbeiten.
 
 Zu den verarbeiteten Daten zählen:\
