@@ -22,7 +22,12 @@ $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
+@import "fonts";
 
 header img {
     max-width: min(52rem, 90vw);
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
