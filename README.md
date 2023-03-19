@@ -12,6 +12,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Repository | öffentlich | [Flevents](https://github.com/NoName11234/Flevents) |
 | Projektplan | öffentlich | [Projektplan](https://dhbwstg-my.sharepoint.com/:w:/g/personal/i21015_hb_dhbw-stuttgart_de/Efkh8CQ-eoxJvgYrt-9BnU0Bwb66dCbevpmAAzJlUaDuKg?e=12gLXE) |
 | Risikoanalyse | öffentlich | [Risikoanalyse](https://dhbwstg-my.sharepoint.com/:w:/g/personal/i21015_hb_dhbw-stuttgart_de/Ef9aBNEyc5dAoYe1okeoagsBrVvVqp7tF_pYtS-z9pgfJg?e=fhzGvK) |
+| Recherchebericht | beschränkt | [Recherchebericht](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EfSn_MwML4tOrhUCZVaaI1gBVJZv2U3GVqFYKPCtgHFmqA?e=BovGZn) |
 | Statusberichte | beschränkt | [Alle Statusberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ek6RXJJ2bexLhTh41hYQTp0BkIt39ANIW3aETtXwXOL2Bg?e=0HQPRm) |
 | Aufwandsberichte | beschränkt |  [Alle Aufwandsberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EgAPLLNsz81NiKrMdZ2INM8Bn4Js46WiQyu1vKXY73dt6A?e=D5ckoE) |
 | Abgegebene Dokumente nach Woche | beschränkt | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l), [Woche 2](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EvGifXm6H-ZNmLV4rqB6hK8B_Z7-NgUSa6nDVZihreKTHw?e=iK1pBL) |
