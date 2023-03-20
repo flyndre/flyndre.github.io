@@ -25,6 +25,5 @@ Unsere Gruppe besteht aus fünf Studenten des Studiengangs Informatik der DHBW S
 | Projektleiter | Lukas&nbsp;Burkhardt | [i21005@hb.dhbw-stuttgart.de](mailto:i21005@hb.dhbw-stuttgart.de) |
 | Technischer Assistent | Paul&nbsp;Lehmann | [i21017@hb.dhbw-stuttgart.de](mailto:i21017@hb.dhbw-stuttgart.de) |
 | Recherche- und Testbeauftrager | Pascal&nbsp;Fuchs | [i21008@hb.dhbw-stuttgart.de](mailto:i21008@hb.dhbw-stuttgart.de) |
-| Modellierungsbeautragter |  |  |
-| Implementierungsbeauftrager | Ruben&nbsp;Kraft | [i21015@hb.dhbw-stuttgart.de](mailto:i21015@hb.dhbw-stuttgart.de) |
+| Modellierungs- und Implementierungsbeauftrager | Ruben&nbsp;Kraft | [i21015@hb.dhbw-stuttgart.de](mailto:i21015@hb.dhbw-stuttgart.de) |
 | Qualitätssicherungs- und Dokumentationsbeauftrager | David&nbsp;Maier | [i21018@hb.dhbw-stuttgart.de](mailto:i21018@hb.dhbw-stuttgart.de) |
