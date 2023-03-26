@@ -3,6 +3,13 @@
 Wir sind Team Flyndre (Norwegisch, sprich: _Flindre_), ein Entwicklerteam aus Studenten der DHBW Stuttgart Campus Horb.
 Im Rahmen einer Vorlesung entwickeln wir _Flevents_, eine moderne Event-Management-Software.
 
+## Prototyp
+
+Im Rahmen des Projekts wurde ein erster Prototyp entwickelt.
+
+| Repository | [Prototyp-Code](https://github.com/NoName11234/FleventsPrototype) |
+| Applikation | [Prototyp-Webseite](http://h3005487.stratoserver.net:8080) |
+
 ## Ressourcen
 
 Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, von denen einige öffentlich, andere nur für einen gewissen Personenkreis bestimmt sind.
@@ -13,9 +20,13 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Projektplan | öffentlich | [Projektplan](https://dhbwstg-my.sharepoint.com/:w:/g/personal/i21015_hb_dhbw-stuttgart_de/Efkh8CQ-eoxJvgYrt-9BnU0Bwb66dCbevpmAAzJlUaDuKg?e=12gLXE) |
 | Risikoanalyse | öffentlich | [Risikoanalyse](https://dhbwstg-my.sharepoint.com/:w:/g/personal/i21015_hb_dhbw-stuttgart_de/Ef9aBNEyc5dAoYe1okeoagsBrVvVqp7tF_pYtS-z9pgfJg?e=fhzGvK) |
 | Recherchebericht | beschränkt | [Recherchebericht](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EYEUUlcJgxVNiUKyhelW_4AByh5hGhg0ZieAIDqmHl1CuQ?e=A0dMvG) |
+| Designbeschreibung | beschränkt | [Designbeschreibung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWPY6NK-PHJKk77rwBh7FikBHpfjJ9p9o9PpMettdagsjQ?e=Yc5uzA) |
+| Dokumentationskonzept | beschränkt | [Dokumentationskonzept](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ERPe689Q9vZMpX39LYGajrwBxJkrO2_0JzxEuBjkVZZmAw?e=EosmTx) |
+| Glossar | beschränkt | [Glossar](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EdbhlzQb5FdNpTYbmMqhM30BUUw1n56eJYzbXXsFZx-H5g?e=wKwLuF) |
+| Lastenheft | beschränkt | [Lastenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWmP-hiYnNdImtKRqcJaZAkBgK6tMha4Tr4LtGXVT5nsZA?e=yYca5K) |
 | Statusberichte | beschränkt | [Alle Statusberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ek6RXJJ2bexLhTh41hYQTp0BkIt39ANIW3aETtXwXOL2Bg?e=0HQPRm) |
 | Aufwandsberichte | beschränkt |  [Alle Aufwandsberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EgAPLLNsz81NiKrMdZ2INM8Bn4Js46WiQyu1vKXY73dt6A?e=D5ckoE) |
-| Abgegebene Dokumente nach Woche | beschränkt | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l), [Woche 2](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EvGifXm6H-ZNmLV4rqB6hK8B_Z7-NgUSa6nDVZihreKTHw?e=iK1pBL) |
+| Abgegebene Dokumente nach Woche | beschränkt | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l), [Woche 2](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EvGifXm6H-ZNmLV4rqB6hK8B_Z7-NgUSa6nDVZihreKTHw?e=iK1pBL), [Woche 3](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ehh97K-R-45NpMR_whHZQgUBkb5kPMrjfb4CD6NHhkigpg?e=0cLjQ2) |
 
 ## Gruppenmitglieder
 
