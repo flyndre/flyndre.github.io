@@ -84,7 +84,7 @@ Hier finden Sie sämtliche Cookies, die für den Betrieb unserer Website und ihr
 
 | Cookie-Name | Host | Typ | Zweck | verarbeitete Daten | Drittdienst | Gültigkeitsdauer | Zielland |
 |---|---|---|---|---|---|---|---|
-| Login | - | Login | Erkennung des Nutzeraccounts |  | - | persistent | - |
+| Login | - | Login | Erkennung des Nutzeraccounts |  | - | Bis zur Abmeldung | - |
 
 
 ### Technisch nicht notwendige Cookies
