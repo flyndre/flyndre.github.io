@@ -28,6 +28,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Dokumentationskonzept | beschränkt | [Dokumentationskonzept](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ERPe689Q9vZMpX39LYGajrwBxJkrO2_0JzxEuBjkVZZmAw?e=EosmTx) |
 | Glossar | beschränkt | [Glossar](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EdbhlzQb5FdNpTYbmMqhM30BUUw1n56eJYzbXXsFZx-H5g?e=wKwLuF) |
 | Lastenheft | beschränkt | [Lastenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWmP-hiYnNdImtKRqcJaZAkBgK6tMha4Tr4LtGXVT5nsZA?e=yYca5K) |
+| Pflichtenheft | beschränkt | [Pflichtenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ETRd38w1BBREi0rMK3i8J5kBPuZbrdpBQpgvfedRgAn3Aw?e=lCoixr) |
 
 ### Periodische Abgaben
 
@@ -35,7 +36,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | --- | --- | --- |
 | Statusberichte | beschränkt | [Alle Statusberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ek6RXJJ2bexLhTh41hYQTp0BkIt39ANIW3aETtXwXOL2Bg?e=0HQPRm) |
 | Aufwandsberichte | beschränkt |  [Alle Aufwandsberichte](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EgAPLLNsz81NiKrMdZ2INM8Bn4Js46WiQyu1vKXY73dt6A?e=D5ckoE) |
-| Alle abgegebene Dokumente nach Woche | beschränkt | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l), [Woche 2](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EvGifXm6H-ZNmLV4rqB6hK8B_Z7-NgUSa6nDVZihreKTHw?e=iK1pBL), [Woche 3](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ehh97K-R-45NpMR_whHZQgUBkb5kPMrjfb4CD6NHhkigpg?e=0cLjQ2) |
+| Alle abgegebene Dokumente nach Woche | beschränkt | [Woche 1](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EiJdDY_gI55Ml_A61vQJtzoB6HPcTynsXiBAz-RctvVs6Q?e=R71a4l), [Woche 2](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/EvGifXm6H-ZNmLV4rqB6hK8B_Z7-NgUSa6nDVZihreKTHw?e=iK1pBL), [Woche 3](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Ehh97K-R-45NpMR_whHZQgUBkb5kPMrjfb4CD6NHhkigpg?e=0cLjQ2), [Woche 4](https://dhbwstg-my.sharepoint.com/:f:/g/personal/i21015_hb_dhbw-stuttgart_de/Et8beomiSh1CqdrztDG7E2QBa6erEXKO_BF7cylbXYgxVQ?e=0WnOjz) |
 
 ## Gruppenmitglieder
 
