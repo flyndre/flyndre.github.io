@@ -26,7 +26,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Recherchebericht | beschränkt | [Recherchebericht](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EYEUUlcJgxVNiUKyhelW_4AByh5hGhg0ZieAIDqmHl1CuQ?e=A0dMvG) |
 | Designbeschreibung | beschränkt | [Designbeschreibung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWPY6NK-PHJKk77rwBh7FikBHpfjJ9p9o9PpMettdagsjQ?e=Yc5uzA) |
 | Dokumentationskonzept | beschränkt | [Dokumentationskonzept](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ERPe689Q9vZMpX39LYGajrwBxJkrO2_0JzxEuBjkVZZmAw?e=EosmTx) |
-| Glossar | beschränkt | [Glossar](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EdbhlzQb5FdNpTYbmMqhM30BUUw1n56eJYzbXXsFZx-H5g?e=wKwLuF) |
+| Glossar | beschränkt | [Glossar](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ESqSPK39gbJOnYuhk1qSu10BqO1s2bkGIUgJiI7BCiRfdg?e=GJ4WWcF) |
 | Lastenheft | beschränkt | [Lastenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWmP-hiYnNdImtKRqcJaZAkBgK6tMha4Tr4LtGXVT5nsZA?e=yYca5K) |
 | Pflichtenheft | beschränkt | [Pflichtenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ETRd38w1BBREi0rMK3i8J5kBPuZbrdpBQpgvfedRgAn3Aw?e=lCoixr) |
 
