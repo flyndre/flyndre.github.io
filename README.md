@@ -11,6 +11,7 @@ Im Rahmen des Projekts wird eine Software entwickelt.
 | --- | --- |
 | Repository | [Code](http://repo.flyndre.de) |
 | Applikation | [Webseite](http://flevents.flyndre.de:8080) |
+| Docs | [JavaDocs](/docs/javadoc/) |
 
 ## Ressourcen
 
