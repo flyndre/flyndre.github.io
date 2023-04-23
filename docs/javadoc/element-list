@@ -1,7 +1,13 @@
 de.flyndre.fleventsbackend
 de.flyndre.fleventsbackend.controller
+de.flyndre.fleventsbackend.controllerServices
 de.flyndre.fleventsbackend.dtos
 de.flyndre.fleventsbackend.dtos.questionaire
 de.flyndre.fleventsbackend.Models
 de.flyndre.fleventsbackend.repositories
+de.flyndre.fleventsbackend.security
+de.flyndre.fleventsbackend.security.jwt
+de.flyndre.fleventsbackend.security.payload.request
+de.flyndre.fleventsbackend.security.payload.response
+de.flyndre.fleventsbackend.security.services
 de.flyndre.fleventsbackend.services
