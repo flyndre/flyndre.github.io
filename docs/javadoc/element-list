@@ -2,8 +2,10 @@ de.flyndre.fleventsbackend
 de.flyndre.fleventsbackend.controller
 de.flyndre.fleventsbackend.controllerServices
 de.flyndre.fleventsbackend.dtos
-de.flyndre.fleventsbackend.dtos.questionaire
+de.flyndre.fleventsbackend.dtos.questionnaire
+de.flyndre.fleventsbackend.dtos.questionnaire.statistics
 de.flyndre.fleventsbackend.Models
+de.flyndre.fleventsbackend.Models.questionnaire
 de.flyndre.fleventsbackend.repositories
 de.flyndre.fleventsbackend.security
 de.flyndre.fleventsbackend.security.jwt
