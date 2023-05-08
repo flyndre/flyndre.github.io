@@ -30,7 +30,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Glossar | beschränkt | [Glossar](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ESqSPK39gbJOnYuhk1qSu10BqO1s2bkGIUgJiI7BCiRfdg?e=GJ4WWcF) |
 | Lastenheft | beschränkt | [Lastenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWmP-hiYnNdImtKRqcJaZAkBgK6tMha4Tr4LtGXVT5nsZA?e=yYca5K) |
 | Pflichtenheft | beschränkt | [Pflichtenheft](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ETRd38w1BBREi0rMK3i8J5kBPuZbrdpBQpgvfedRgAn3Aw?e=lCoixr) |
-| Designbeschreibung | beschränkt | [Designbeschreibung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWEel_tiUvBKuryRleT1SWUBUmD7omDzVbp8WPVkhi8z2w?e=NJhA1P) | 
+| Designbeschreibung | beschränkt | [Designbeschreibung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWKtDd5jnqZHieAOYKU5bqwB1FOKC-oqPg9W6TqDtQABlQ?e=x9fdmt) | 
 | Testkonzept | beschränkt | [Testkonzept](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/Eev984uXoDZBjMdiDS0-fnwB9rgkrhd-fIDPts-QEwv-yQ?e=UXV1oX) |
 | Storyplanung | beschränkt | [Storyplanung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EaG_UxyN3_5Prp9ASaIOjagBlkdEPSz2Uu8BI7U0JPVw-w?e=64wuXU) |
 | Anwenderhandbuch | beschränkt | [Anwenderhandbuch](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ESNa5n5jTT5NjgB0rA-Y3xUBUXatldHt8Xcs7W3WrvCDwg?e=BFvbYz)|
