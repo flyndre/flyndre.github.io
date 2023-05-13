@@ -36,6 +36,7 @@ Unsere Projektarbeit betreffend stellen wir folgende Ressourcen zur Verfügung, 
 | Anwenderhandbuch | beschränkt | [Anwenderhandbuch](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/ESNa5n5jTT5NjgB0rA-Y3xUBUXatldHt8Xcs7W3WrvCDwg?e=BFvbYz)|
 | Installationsanleitung | beschränkt | [Installationsanleitung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EWUAOaXknCRChpcD6H7qX5ABWvQOWp6rGSiRA2NIzQVIIQ?e=WJV8iv) |
 | Vollständiges Klassendiagramm | beschränkt | [Klassendiagramm](https://dhbwstg-my.sharepoint.com/:i:/g/personal/i21015_hb_dhbw-stuttgart_de/EZhCoc2K68xBoQF5eN-tO6IBXRoh58c1VgXeQgVRp7TrjA?e=AJ5AE9) |
+| Aufwandsschätzung | beschränkt | [Aufwandsschätzung](https://dhbwstg-my.sharepoint.com/:b:/g/personal/i21015_hb_dhbw-stuttgart_de/EcLOINKtl9BGu9VxKwdJON4BcHjaCc97j-uMcGW-rOW-oQ) |
 
 ### Periodische Abgaben
 
