@@ -5,7 +5,7 @@ Im Rahmen einer Vorlesung entwickeln wir _Flevents_, eine moderne Event-Manageme
 
 ## Zusammenfassung
 
-| Vollständige Zusammenfassung des Projekts | [Zip-Ordner](https://dhbwstg-my.sharepoint.com/:u:/g/personal/i21015_hb_dhbw-stuttgart_de/EQlpgYVn1lxJhkHYsU0EWc8BEhxm-Ip94ds8lZkG0t0TlA?e=jnoEz8) |
+| Vollständige Zusammenfassung des Projekts | [Zip-Ordner](https://dhbwstg-my.sharepoint.com/:u:/g/personal/i21015_hb_dhbw-stuttgart_de/EWYuMTJnrTVNuDQE-vcWXyABZvRnewrmpE9e8tlJcdL2Iw?e=hdDLYM) |
 
 ## Software
 
